@@ -1,0 +1,15 @@
+D:\GeekBrains\c#\Practice\Homework seminars\Seminar_4\zadacha27\obj\Debug\net6.0\zadacha27.csproj.AssemblyReference.cache
+D:\GeekBrains\c#\Practice\Homework seminars\Seminar_4\zadacha27\obj\Debug\net6.0\zadacha27.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\c#\Practice\Homework seminars\Seminar_4\zadacha27\obj\Debug\net6.0\zadacha27.AssemblyInfoInputs.cache
+D:\GeekBrains\c#\Practice\Homework seminars\Seminar_4\zadacha27\obj\Debug\net6.0\zadacha27.AssemblyInfo.cs
+D:\GeekBrains\c#\Practice\Homework seminars\Seminar_4\zadacha27\obj\Debug\net6.0\zadacha27.csproj.CoreCompileInputs.cache
+D:\GeekBrains\c#\Practice\Homework seminars\Seminar_4\zadacha27\bin\Debug\net6.0\zadacha27.exe
+D:\GeekBrains\c#\Practice\Homework seminars\Seminar_4\zadacha27\bin\Debug\net6.0\zadacha27.deps.json
+D:\GeekBrains\c#\Practice\Homework seminars\Seminar_4\zadacha27\bin\Debug\net6.0\zadacha27.runtimeconfig.json
+D:\GeekBrains\c#\Practice\Homework seminars\Seminar_4\zadacha27\bin\Debug\net6.0\zadacha27.dll
+D:\GeekBrains\c#\Practice\Homework seminars\Seminar_4\zadacha27\bin\Debug\net6.0\zadacha27.pdb
+D:\GeekBrains\c#\Practice\Homework seminars\Seminar_4\zadacha27\obj\Debug\net6.0\zadacha27.dll
+D:\GeekBrains\c#\Practice\Homework seminars\Seminar_4\zadacha27\obj\Debug\net6.0\refint\zadacha27.dll
+D:\GeekBrains\c#\Practice\Homework seminars\Seminar_4\zadacha27\obj\Debug\net6.0\zadacha27.pdb
+D:\GeekBrains\c#\Practice\Homework seminars\Seminar_4\zadacha27\obj\Debug\net6.0\zadacha27.genruntimeconfig.cache
+D:\GeekBrains\c#\Practice\Homework seminars\Seminar_4\zadacha27\obj\Debug\net6.0\ref\zadacha27.dll
